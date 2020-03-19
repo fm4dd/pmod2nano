@@ -2,7 +2,7 @@
 
 ### Description
 
-[![PMOD2NANO PMOD](images/pmod2nano-top.jpg)](images/pmod2nano-top.jpg)
+<img src="images/pmod2nano-top.jpg" width="240px">
 
 This module is a PMOD adapter for Intels DE0-Nano-SoC boards. DE0-Nano-SoC boards, equipped with Cyclone V FPGA, provide generic IO access through two proprietary 40-pin header rows with 36 IOs (72 IO total). The PMOD2NANO adapter converts 16 board IO's, together with the power lines, into two dual-row PMOD sockets. The adapter can be used on both GPIO rows for a total of four PMOD connectors.
 
@@ -31,6 +31,6 @@ PMOD1|  Label | GPIO0A | GPIO1A | PMOD2|  Label | GPIO0B | GPIO1B
 
 ### Examples
 
-[![PMOD2NANO Top](images/pmod2nano-7seg4-top.jpg)](images/pmod2nano-7seg4-top.jpg)
+<img src="images/pmod2nano-7seg4-top.jpg" width="480px">
 
 7seg4 PMOD, connected through the PMOD2NANO adapter
