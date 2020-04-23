@@ -14,7 +14,9 @@ http://fpga.fm4dd.com/
 
 ### PCB Gerber
 
-[PMOD2NANO Gerber V1.0](20200112-pmod2nano-gerber-v10.zip)
+[PMOD2NANO GPIO-0 Silkscreen Gerber V1.0](20200112-pmod2nano-gpio0-gerber-v10.zip)
+
+[PMOD2NANO GPIO-1 Silkscreen Gerber V1.0](20200128-pmod2nano-gpio1-gerber-v10.zip)
 
 ### Pin Assignments
 
